@@ -1,7 +1,7 @@
-# 👋 Hi there 👋 I'm Prahathish
+# 👋 Hi there ! I'm Prahathish
 
-🌟 A **Software and Data Engineer** with 4.5+ years of experience in building scalable backend systems, cloud-native solutions, and data-driven architectures. 
-   Passionate about solving complex challenges at the intersection of software engineering and big data.
+🌟 A passionate **Software and Data Engineer** in building scalable backend systems, cloud-native solutions, and data-driven architectures. 
+   Love solving complex challenges at the intersection of software engineering and big data.
 
 ---
 
